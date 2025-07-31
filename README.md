@@ -4,7 +4,7 @@ from: LangChain Open Tutorial
 
 
 📘 Overview
-This tutorial is part of the LangChain Open Tutorial Series, focusing on building foundational graph structures using LangGraph.
+This  is building foundational graph structures using LangGraph.
 
 You will learn how to:
 
