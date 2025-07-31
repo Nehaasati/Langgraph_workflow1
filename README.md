@@ -1,5 +1,4 @@
 LangGraph - Building Graphs
-Author: Donghak Lee
 Peer Review: Chaeyoon Kim
 Part of: LangChain Open Tutorial
 
