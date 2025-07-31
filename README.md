@@ -1,6 +1,5 @@
 LangGraph - Building Graphs
-Peer Review: Chaeyoon Kim
-Part of: LangChain Open Tutorial
+from: LangChain Open Tutorial
 
 
 
